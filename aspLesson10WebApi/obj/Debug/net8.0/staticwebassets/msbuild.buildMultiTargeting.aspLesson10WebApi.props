@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aspLesson10WebApi.props" />
+</Project>
